@@ -1,0 +1,11 @@
+.header{
+    border-style: solid;
+}
+body{
+    background-color: lightblue;
+}
+h1,h2{
+    color: gray;
+    position: center;
+
+}
