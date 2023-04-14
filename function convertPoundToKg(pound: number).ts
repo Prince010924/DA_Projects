@@ -1,19 +1,19 @@
-function convertPoundToKilog(pound: number): number{
+function convertPoundToKg(pound: number): number{
     return pound /2.205;
 
 }
 
-function convertInchesToCentim(inches: number): number{
+function convertInchesToCm(inches: number): number{
     return inches * 2.54;
 
 }
 
 
-function convertFahrenheitToCels(fahrenheit: number): number{
+function convertFahrenheitToCelsius(fahrenheit: number): number{
     return (fahrenheit - 32) * 5/9;
 }
 
-function convertFeetToMeter(feet: number):number{
+function convertFeetToMeters(feet: number):number{
     return feet/3.281;
 
 }
