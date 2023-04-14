@@ -7,4 +7,4 @@ function oddEven(digit: number){
     }
 }
 
-console.log(oddEven(10))
+console.log(oddEven(10));
